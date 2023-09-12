@@ -2,7 +2,7 @@
   "name": "web-server",
   "version": "1.0.0",
   "description": "",
-  "main": "/templates/views/index.hbs",
+  "main": "web-server/templates/views/index.hbs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
